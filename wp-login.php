@@ -2,7 +2,7 @@
 <html lang="en-US">
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Log In &lsaquo; Chi Cuc Hoa Tri &#8212; WordPress</title>
+	<title>Log In &lsaquo; Bà Cúc Cầu Đá &#8212; WordPress</title>
 	<meta name="robots" content="noindex, nofollow, noarchive">
 <link rel="stylesheet" id="dashicons-css" href="/https://anhkhoahuynh.github.io/wp-includes/css/dashicons.min.css?ver=6.1.1" media="all">
 <link rel="stylesheet" id="buttons-css" href="/https://anhkhoahuynh.github.io/wp-includes/css/buttons.min.css?ver=6.1.1" media="all">
@@ -46,7 +46,7 @@
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }</script>
 				<p id="backtoblog">
-			<a href="/https://anhkhoahuynh.github.io/">&larr; Go to Chi Cuc Hoa Tri</a>		</p>
+			<a href="/https://anhkhoahuynh.github.io/">&larr; Go to Bà Cúc Cầu Đá</a>		</p>
 			</div>
 			<script src="/https://anhkhoahuynh.github.io/wp-includes/js/jquery/jquery.min.js?ver=3.6.1" id="jquery-core-js"></script>
 <script src="/https://anhkhoahuynh.github.io/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
@@ -64,7 +64,7 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 <script src="/https://anhkhoahuynh.github.io/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
 <script id="wp-util-js-extra">var _wpUtilSettings = {"ajax":{"url":"\/anhkhoahuynh.github.io\/wp-admin\/admin-ajax.php"}};</script>
 <script src="/https://anhkhoahuynh.github.io/wp-includes/js/wp-util.min.js?ver=6.1.1" id="wp-util-js"></script>
-<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"b30df6eb46"};</script>
+<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"91e47cf717"};</script>
 <script src="/https://anhkhoahuynh.github.io/wp-admin/js/user-profile.min.js?ver=6.1.1" id="user-profile-js"></script>
 	<div class="clear"></div>
 	</body>

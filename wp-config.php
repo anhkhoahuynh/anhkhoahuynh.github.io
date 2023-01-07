@@ -20,13 +20,13 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'khoahuynh2' );
+define( 'DB_NAME', 'bacuccauda' );
 
 /** Database username */
-define( 'DB_USER', 'khoahuynh2' );
+define( 'DB_USER', 'bacuccauda' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'khoahuynh2' );
+define( 'DB_PASSWORD', 'bacuccauda' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
@@ -48,14 +48,14 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         'WVVyKC;^0>#^x?^OQ]Sg*Vm]hAK]8+]z.j7_Tb9*`UU(d#t,e&1{cNsia53J!uwk' );
-define( 'SECURE_AUTH_KEY',  '7j/GgvUH.K>QV&_IJY~Iaub#ZfZ{t^jgt&E>fu^IRhM$&x?<_?rDQI72%3_G8>/3' );
-define( 'LOGGED_IN_KEY',    '/W+MHf8UV`.L452BwOV=.).z!XWO~{i ;$=o-&Rk6%PAG#^-3eUtbH3)O$?Z&t&6' );
-define( 'NONCE_KEY',        '2J^y/}+V0XHi#`UNVO^y;BwCl|*42%-E~}R`~,)7Q.5ACRbGWqcV`pvq:r&#oDvs' );
-define( 'AUTH_SALT',        '4`2zuKzCF.T%G*| NkCAu#DMnr&F=K=~t;kLA)eYH{rUI-BMRH_=8oJJO/$9dt!t' );
-define( 'SECURE_AUTH_SALT', 'n1[UQu|!ruhz*~L;Gf4Gje2LM6Et_28PJ${q2il;j$y:}/Cq&y^,[-3XOD~P1Y%<' );
-define( 'LOGGED_IN_SALT',   'Y{Og{7:h%=sb^m ]7cH0;|&og3o{La;#xck(.&&MuQXOX!j(0-9%_hmW{UJAu@zW' );
-define( 'NONCE_SALT',       '?#SL}^wug#_Du*RcTE/kd87kQxb%[U;?tz9ULt,oA|Y%%UX3?0VwoYge.6wFORKZ' );
+define( 'AUTH_KEY',         '023/;kGt5%MSdZ#l0~ DM7vv>PAZ@HN5_~^1gRs;[]r:|:L-Yl[NUl`av^Bu0e6l' );
+define( 'SECURE_AUTH_KEY',  ';!e|O}N+}f|V7_OmosiDZGKUdb5(h+iXOtQQ{)nZ0gNk|NH;qUZR>fX{8!240$Yc' );
+define( 'LOGGED_IN_KEY',    'Xt+mHPs*%VTx(NpOW{)K>0k)eHYZd19Au;8Em*0lx&ob&:oHKq*G0l6UJIAJ!?k0' );
+define( 'NONCE_KEY',        'w?}m+({*kQ>a^+Q{G[i)>%?J+:an=!ANk*O=oZ,lK4i)^Cv`/#U)s~*|Er&qk:BI' );
+define( 'AUTH_SALT',        'Hx4_!pU= ${bFK)t#a{OHrzFEXn^D{<oPKev5dc_%X}@Og6&<<AcDFuX)nbL+5 o' );
+define( 'SECURE_AUTH_SALT', ',/.7CXl+G-XB^Dg@3j.;Ta>)OAA-M;i/N439Q{4ei-o%uOXN/)Sq8_3mmskS8k4%' );
+define( 'LOGGED_IN_SALT',   '!Wuq6tolVz$Z1g?6I2VEt4+Q]%QHpWC_j_bAvU|689>!W4|%`ANwFg2JF(*B,3`P' );
+define( 'NONCE_SALT',       'aeUnN{8rW1be:NPi7S7v^6H6jz+eACVNL]*!:Uba!!?y%)I0y3d{!lLDcVNSx@ H' );
 
 /**#@-*/
 
